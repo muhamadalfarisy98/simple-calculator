@@ -74,7 +74,7 @@ class Ui_MainWindow(object):
         self.pushButton_11.clicked.connect(self.action0)
 
         # comboBox
-        operator = ['+','-','/','*','=']
+        operator = ['+','-','/','*','%','=']
         self.comboBox.addItems(operator)
         self.comboBox.activated.connect(self.comboClicker)
 
