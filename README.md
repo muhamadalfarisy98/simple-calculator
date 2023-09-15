@@ -7,11 +7,11 @@
 ## How To run
 `python main.py`
 
-![alt text]([file:///home/farisy/Pictures/Screenshots/Screenshot%20from%202023-09-13%2022-00-24.png](https://drive.google.com/drive/folders/1oNfXSrQDyJY_rcw7ERaWEDRPLN-dTRga)https://drive.google.com/drive/folders/1oNfXSrQDyJY_rcw7ERaWEDRPLN-dTRga)
-
+![Screen Shot 2023-09-15 at 08 33 51](https://github.com/muhamadalfarisy98/simple-calculator/assets/23287190/67dd2356-df66-41ae-a9fb-9c53a5da7f2b)
 
 
 ## Testing
-https://drive.google.com/file/d/1bh9nAmtZpRV8kn_NAEoG9PQCNdsBJtkC/view?usp=sharing
+![Uploading Screen Shot 2023-09-15 at 08.34.12.png…]()
+
 
 
