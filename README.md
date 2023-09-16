@@ -14,7 +14,8 @@
 
 
 ## Testing
-![Screen Shot 2023-09-15 at 08 34 12](https://github.com/muhamadalfarisy98/simple-calculator/assets/23287190/dcc227dd-6908-41f3-a492-ecb455b83ee5)
+![Screen Shot 2023-09-16 at 12 43 40](https://github.com/muhamadalfarisy98/simple-calculator/assets/23287190/aae19c8d-522c-453a-b23b-a34c084723eb)
+
 
 
 
